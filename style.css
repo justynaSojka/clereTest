@@ -1,0 +1,22 @@
+body {
+	background-color: #f7f7f7 !important;
+}
+
+#content {
+	margin: 100px;
+	padding: 20px;
+	border: 1px solid #bfbfbf;
+}
+
+.table thead, #addProductButton {
+	background-color: #2c698a  !important;
+	color: white;
+}
+
+.title {
+	color: #2c698a;
+}
+
+.action{
+	max-width: 50px;
+}
